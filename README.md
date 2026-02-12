@@ -1,5 +1,3 @@
-<h1 align="center">Levi Purkey</h1>
-
 ## 👋 About Me:
 First-year university student passionate about leveraging computer science and entrepreneurship to create innovative, socially impactful solutions in technology and business. Proven leader with experience in STEM competitions, community service, and business initiatives.
 
