@@ -3,7 +3,7 @@ First-year university student passionate about leveraging computer science and e
 
 ## 🌐 Connect w/ me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levipurkey/)
-[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/levi.purk/)
+[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/levipurk/)
 
 ## 💻 Tech Stack:
 Languages: 
